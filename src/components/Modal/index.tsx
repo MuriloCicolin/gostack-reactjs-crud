@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 import ReactModal from 'react-modal';
+import './styles.css';
 
 interface IFoodPlate {
   id: number;

@@ -21,10 +21,10 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+![Peek 04-06-2020 10-40](https://user-images.githubusercontent.com/49662901/83764918-e8b51f00-a650-11ea-9807-39ef8350650d.gif)
 
 ## :rocket: Sobre o desafio
 
@@ -102,4 +102,4 @@ Para esse desafio, temos os seguintes testes:
 
 - **`should be able to update the availibility of a food plate`**: Para que esse teste passe, em sua dashboard você deve permitir que o status do prato de comida seja alterado entre `Disponível` e `Indisponível`;
 
-![Peek 04-06-2020 10-40](https://user-images.githubusercontent.com/49662901/83764918-e8b51f00-a650-11ea-9807-39ef8350650d.gif)
+
